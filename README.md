@@ -1,16 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20World!&fontSize=85&&animation=fadeIn)
-
-### Welcome to Yeonji's Github Profile :star2:
-
-
-<span style="color: red;">I love coding in Python!</span>
-
-<font color="green">Feel free to explore my repositories.</font>
-
-I have used:
-
-![Static Badge](https://img.shields.io/badge/-Python-blue?style=plastic&logo=Python&logoColor=ffffff&labelColor=blue)
-
-
-
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Hello,%20World%20!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Yeonji's Github Profile 🌟 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 👋 Hi there! I’m passionate about leveraging technology to solve complex problems and continuously learning new skills.</li></li><br/>🌱 With a strong background in CADD and a keen interest in contributing to innovative research. </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:fortunate.yj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fortunate.yj@gmail.com"> </a>
+         <a href=www.linkedin.com/in/yeonji-ji-44a6a5175> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/yeonji-ji-44a6a5175"> </a>
+          </div> <br> 
+    <div align= "center">  </div> 
+    </div>
+    
