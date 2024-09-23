@@ -1,16 +1,16 @@
-## Hi there 👋
-# My name is Yeonji.
-<!--
-**Yeonji-Ji/Yeonji-Ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20World!&fontSize=85&&animation=fadeIn)
 
-Here are some ideas to get you started:
+### Welcome to Yeonji's Github Profile :star2:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<span style="color: red;">I love coding in Python!</span>
+
+<font color="green">Feel free to explore my repositories.</font>
+
+I have used:
+
+![Static Badge](https://img.shields.io/badge/-Python-blue?style=plastic&logo=Python&logoColor=ffffff&labelColor=blue)
+
+
+
+
