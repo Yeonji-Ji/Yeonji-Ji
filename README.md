@@ -11,13 +11,16 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
           </div>
-    </div>
-    <div align= "center">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h3> <br> 
-    <div align= "center"> <a href=mailto:fortunate.yj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fortunate.yj@gmail.com"> </a>
-         <a href=www.linkedin.com/in/yeonji-ji-44a6a5175> <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&link=www.linkedin.com%2Fin%2Fyeonji-ji-44a6a5175"> </a>
-          </div> <br> 
-    <div align= "center">  </div> 
-    </div>
-
+    <div align="center">
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h3> <br> 
+  <div align="center">
+    <a href="mailto:fortunate.yj@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fortunate.yj@gmail.com">
+    </a>
+    <a href="https://www.linkedin.com/in/yeonji-ji-44a6a5175">
+      <img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5&link=https://www.linkedin.com/in/yeonji-ji-44a6a5175">
+    </a>
+  </div> <br> 
+  <div align="center"></div> 
+</div>
 
